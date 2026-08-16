@@ -18,6 +18,7 @@ Building things that work. Learning what comes next. 🚀
 
 ## 👨‍💻 About Me
 
+- 💼 Currently working as a **Software Developer** at **Teletic**, specializing in frontend architecture and enterprise applications using **Angular**.
 - 🔭 I design and build full-stack applications — from interactive dashboards and e-learning platforms with live video, to social media backends and data analytics tools.
 - 💻 **My Stack:** I work across the stack with **React, Next.js, and Angular** on the frontend, and **NestJS, Express, and Python** on the backend.
 - 🗄️ **Data & Real-time:** Experienced with **PostgreSQL**, **WebSockets (Socket.IO)**, and big data processing pipelines utilizing **Hadoop MapReduce**.
