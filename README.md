@@ -61,10 +61,6 @@ Building things that work. Learning what comes next. 🚀
 |---------|-------------|------------|
 | **🎓 Private School System** | Full-stack e-learning platform with live video sessions, real-time chat, enrollment management, and role-based access. | `Next.js` `NestJS` `PostgreSQL` `Agora` |
 | **📊 PIASSA** | Interactive dashboard application with a polished, animated UI. | `Next.js` `TypeScript` `Tailwind CSS` `Framer Motion` |
-| **📱 FaceInsta** | Full-stack social media platform with posts, comments, and a REST API. | `JavaScript` `Node.js` `Express` |
-| **🛒 Smart-Shopping** | Sales data analysis using distributed processing. | `Java` `Hadoop MapReduce` |
-| **🧮 Binary-Calculator** | Number base converter GUI application. | `Java` `JavaFX` `Maven` |
-| **🤖 FanaticGPT** | AI/GPT-based application. | `Python` |
 
 <br/>
 
