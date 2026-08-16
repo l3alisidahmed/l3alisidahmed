@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/l3alisidahmed">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+developer+from+Algeria;Building+full-stack+web+applications;React,+Next.js,+NestJS,+Angular;Real-time+communication+systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+developer;Building+full-stack+web+applications;React,+Next.js,+NestJS,+Angular;Real-time+communication+systems" alt="Typing SVG" />
   </a>
 </p>
 
