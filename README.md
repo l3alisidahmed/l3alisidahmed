@@ -67,6 +67,8 @@ Building things that work. Learning what comes next. 🚀
 
 ## 📈 GitHub Stats
 
+![GitHub Stats Card](https://ghstats.dev/api/card?username=l3alisidahmed)
+
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=l3alisidahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
