@@ -67,8 +67,6 @@ Building things that work. Learning what comes next. 🚀
 
 ## 📈 GitHub Stats
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=l3alisidahmed)
-
 <div align="center">
-  <img src="https://ghstats.dev/api/card?username=l3alisidahmed&theme=radical" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/card?username=l3alisidahmed" alt="GitHub Stats Card" />
 </div>
