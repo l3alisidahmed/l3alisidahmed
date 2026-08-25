@@ -67,15 +67,7 @@ Building things that work. Learning what comes next. 🚀
 
 ## 📈 GitHub Stats
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=l3alisidahmed)
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=l3alisidahmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3alisidahmed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=l3alisidahmed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
+  ![GitHub Stats Card](https://ghstats.dev/api/card?username=l3alisidahmed)
 </div>
